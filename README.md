@@ -1,3 +1,6 @@
+[![Node.js CI](https://github.com/Rodrigo15975/tutorial-actions-4/actions/workflows/node.js.yml/badge.svg)](https://github.com/Rodrigo15975/tutorial-actions-4/actions/workflows/node.js.yml)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
