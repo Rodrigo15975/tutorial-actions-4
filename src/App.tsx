@@ -8,6 +8,7 @@ function App() {
       <h1>Testing in dessarollo</h1>
       <h2>{count}</h2>
       <button onClick={() => setCount(count + 1)}>+</button>
+      <h1>Contador</h1>
     </>
   )
 }
