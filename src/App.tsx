@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <h1>Testing in dessarollo</h1>
+      <h2>{count}</h2>
     </>
   )
 }
